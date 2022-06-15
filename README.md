@@ -1,1 +1,1 @@
-# OSHMount-KiCAD-Library
+# OSHMount KiCAD Library
