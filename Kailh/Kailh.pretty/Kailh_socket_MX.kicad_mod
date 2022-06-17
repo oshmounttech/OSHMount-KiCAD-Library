@@ -1,6 +1,6 @@
 (footprint "Kailh_socket_MX" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62A21664)
+  (tedit 62AC8980)
   (descr "MX-style keyswitch with Kailh socket mount")
   (tags "MX,cherry,gateron,kailh,pg1511,socket")
   (attr smd)
@@ -66,12 +66,12 @@
   (pad "" np_thru_hole circle (at 5.08 0) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask) (tstamp c23abb10-a189-4cd8-81ef-2e9f95f9e18c))
   (pad "1" smd rect (at 6.29 -5.08) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 22c25183-2abb-467c-9571-4ded312d2bfb))
   (pad "2" smd rect (at -7.56 -2.54) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 9b6e640a-7349-45f7-9065-b759d82bad1e))
-  (model "${KIPRJMOD}/lib/Kailh/MX-socket.step"
+  (model "${OSHMOUNT_LIBRARY}/Kailh/MX-socket.step"
     (offset (xyz -0.655 4.75 -3.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -180))
   )
-  (model "${KIPRJMOD}/lib/Kailh/Kailh_Polia.step"
+  (model "${OSHMOUNT_LIBRARY}/Kailh/Kailh_Polia.step"
     (offset (xyz 0 0 5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

@@ -1,6 +1,6 @@
 (footprint "SW_PG1350" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 629E1893)
+  (tedit 62AC89CD)
   (descr "Kailh \"Choc\" PG1350 keyswitch")
   (tags "kailh,choc")
   (attr through_hole)
@@ -42,14 +42,9 @@
   (pad "" np_thru_hole circle (at -5.5 0) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask) (tstamp 7495c33f-857c-4d8d-828f-947ff811977c))
   (pad "1" thru_hole circle (at 0 5.9) (size 2.032 2.032) (drill 1.27) (layers *.Cu *.Mask) (tstamp 444d7274-fad1-4a10-b729-5b56e1c06345))
   (pad "2" thru_hole circle (at -5 3.8) (size 2.032 2.032) (drill 1.27) (layers *.Cu *.Mask) (tstamp ddbc35c0-44d3-491c-95c5-cb416952ba2c))
-  (model "${KIPRJMOD}/lib/Kailh_Choc/Kailh Choc Low Profile Switch.STEP"
+  (model "${OSHMOUNT_LIBRARY}/Kailh/Kailh_Choc.STEP"
     (offset (xyz 0 0 2))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))
-  )
-  (model "${KIPRJMOD}/lib/Kailh_Choc/KeyCaps/1x1.STEP"
-    (offset (xyz 0 0 6))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
   )
 )

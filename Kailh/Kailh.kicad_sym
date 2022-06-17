@@ -9,7 +9,7 @@
     (property "Footprint" "Kailh:Kailh_socket_MX" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "${OSWMOUNT_LIBRARY}/Kailh/Kailh_Polia_datasheet.pdf" (id 3) (at 0 0 0)
+    (property "Datasheet" "${OSHMOUNT_LIBRARY}/Kailh/Kailh_Polia_datasheet.pdf" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_keywords" "switch lever" (id 4) (at 0 0 0)

@@ -9,7 +9,7 @@
     (property "Footprint" "PCA9506:PCA9506DGG" (id 2) (at 33.02 6.096 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Datasheet" "${OSWMOUNT_LIBRARY}/PCA9506DGG/PCA9505_9506.pdf" (id 3) (at 0 0 0)
+    (property "Datasheet" "${OSHMOUNT_LIBRARY}/PCA9506DGG/PCA9505_9506.pdf" (id 3) (at 0 0 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "ki_fp_filters" "SOT364-1_NXP SOT364-1_NXP-M SOT364-1_NXP-L" (id 4) (at 0 0 0)

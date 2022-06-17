@@ -1,6 +1,6 @@
 (footprint "Kailh_socket_PG1350" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62A34F05)
+  (tedit 62AC899F)
   (descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
   (tags "kailh,choc")
   (attr smd)
@@ -77,12 +77,12 @@
   (pad "" np_thru_hole circle (at 0 5.95) (size 3 3) (drill 3) (layers *.Cu *.Mask) (tstamp ef36da6c-b409-4756-be92-54a96426032e))
   (pad "1" smd rect (at 3.275 5.95) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 0a2b5435-df6f-448f-96cd-9db62b5b9e70))
   (pad "2" smd rect (at -8.275 3.75) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 35318ab5-9d7c-4bdd-a72a-c62185738587))
-  (model "${KIPRJMOD}/lib/Kailh/Choc-socket.STEP"
+  (model "${OSHMOUNT_LIBRARY}/Kailh/Choc-socket.STEP"
     (offset (xyz 5 -3.75 -1.75))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
-  (model "${KIPRJMOD}/lib/Kailh/Kailh_Choc.STEP"
+  (model "${OSHMOUNT_LIBRARY}/Kailh/Kailh_Choc.STEP"
     (offset (xyz 0 0 2.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))

@@ -1,6 +1,6 @@
 (footprint "MAX7314AEG&plus_" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62A1FC23)
+  (tedit 62AC89E3)
   (attr through_hole)
   (fp_text reference "REF**" (at 0 0) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -143,7 +143,7 @@
   (pad "22" smd rect (at 2.6543 -2.2225) (size 1.6002 0.3556) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 562bc38a-a51f-43ba-88d0-8a9c852cf421))
   (pad "23" smd rect (at 2.6543 -2.8575) (size 1.6002 0.3556) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f44cafdc-bd2c-4703-abfa-2a5b7f9ec835))
   (pad "24" smd rect (at 2.6543 -3.4925) (size 1.6002 0.3556) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8bf8e1d8-d8ef-4293-838a-b7739ec47c72))
-  (model "${KIPRJMOD}/lib/MAX7314AEG/MAX7314AEG.step"
+  (model "${OSHMOUNT_LIBRARY}/MAX7314AEG/MAX7314AEG.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

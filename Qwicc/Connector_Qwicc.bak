@@ -9,7 +9,7 @@
     (property "Footprint" "Qwicc:JST_SH_Qwicc" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (id 3) (at 0 0 0)
+    (property "Datasheet" "${KIPRJMOD}/lib/Qwicc/4208_Kaweei_C13396_diagram.pdf" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_keywords" "connector" (id 4) (at 0 0 0)

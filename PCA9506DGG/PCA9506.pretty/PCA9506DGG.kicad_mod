@@ -1,6 +1,6 @@
 (footprint "PCA9506DGG" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 629E0074)
+  (tedit 62AC89F6)
   (attr through_hole)
   (fp_text reference "REF**" (at 0 0) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -295,7 +295,7 @@
   (pad "54" smd rect (at 3.7465 -5.749999) (size 1.524 0.2794) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 68b391f1-ceb4-4513-8160-0369b2cd6b8c))
   (pad "55" smd rect (at 3.7465 -6.25) (size 1.524 0.2794) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 96611409-c27d-4a23-a0f7-ecf3a2fedf0b))
   (pad "56" smd rect (at 3.7465 -6.749999) (size 1.524 0.2794) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e45cf71f-2f4e-492f-a4c3-cd6225f125d3))
-  (model "${KIPRJMOD}/lib/PCA9506DGG/PCA9506.step"
+  (model "${OSHMOUNT_LIBRARY}/PCA9506DGG/PCA9506.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

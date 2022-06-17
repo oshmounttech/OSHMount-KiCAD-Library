@@ -1,6 +1,6 @@
 (footprint "JST_SH_Qwicc" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62A34607)
+  (tedit 62AC8A05)
   (descr "JST SH series connector, SM04B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator")
   (tags "connector JST SH top entry")
   (attr smd)
@@ -38,7 +38,7 @@
   (pad "4" smd roundrect (at 1.5 -2) (size 0.6 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp fb22887d-b48e-430a-8cd6-9403b129548c))
   (pad "MP" smd roundrect (at 2.8 1.875) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333) (tstamp a789a1fe-792d-4a94-a7b6-fd3c46b1af70))
   (pad "MP" smd roundrect (at -2.8 1.875) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333) (tstamp cc6c3e3f-65ac-4f7d-ac20-a13420e44e7d))
-  (model "${KIPRJMOD}/lib/Qwicc/qwicc.step"
+  (model "${OSHMOUNT_LIBRARY}/Qwicc/qwicc.step"
     (offset (xyz 0 1.5 -0.35))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
