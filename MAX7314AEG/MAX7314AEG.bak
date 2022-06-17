@@ -10,7 +10,7 @@
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "${KIPRJMOD}/lib/MAX7314AEG/MAX7314AEG+.pdf" (id 3) (at 0 0 0)
-      (effects (font (size 1.524 1.524)))
+      (effects (font (size 1.524 1.524)) hide)
     )
     (property "ki_fp_filters" "21-0055H_24 21-0055H_24-M 21-0055H_24-L" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)

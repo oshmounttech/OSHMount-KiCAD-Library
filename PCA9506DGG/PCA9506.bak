@@ -10,7 +10,7 @@
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "${KIPRJMOD}/lib/PCA9506DGG/PCA9505_9506.pdf" (id 3) (at 0 0 0)
-      (effects (font (size 1.524 1.524)))
+      (effects (font (size 1.524 1.524)) hide)
     )
     (property "ki_fp_filters" "SOT364-1_NXP SOT364-1_NXP-M SOT364-1_NXP-L" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)

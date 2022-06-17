@@ -6,10 +6,10 @@
     (property "Value" "kb2040" (id 1) (at 0 -2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 0 0 0)
+    (property "Footprint" "KeeBoar:kb2040" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 0 0 0)
+    (property "Datasheet" "${OSHMOUNT_LIBRARY}/KeeBoar/adafruit-kb2040.pdf" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "kb2040_0_1"
